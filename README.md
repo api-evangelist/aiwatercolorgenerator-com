@@ -1,4 +1,4 @@
-# aiwatercolorgenerator-com
+# AI Watercolor Generator
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,131 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-aiwatercolorgenerator-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://aiwatercolorgenerator.com/
+AI Watercolor Generator is an online studio that transforms photos or text prompts into watercolor-style artwork using AI. Users can select watercolor styles, choose from multiple image models, refine portraits, pets, houses, and more through conversational chat, and save or branch images for further creative exploration. The platform offers a free tier with basic features and paid plans for higher resolution outputs, faster processing, and commercial usage rights. It also provides an API for developers to integrate watercolor generation into their applications.
+
+**Areas:** AI · Watercolor · Image Generation · Creative Tools · Design
+
+## AI Watercolor Generator on APIs.io
+
+Everything profiled for AI Watercolor Generator is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aiwatercolorgenerator-com/](https://apis.io/providers/aiwatercolorgenerator-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [AI Watercolor Generator Images API](https://apis.io/apis/aiwatercolorgenerator-com/aiwatercolorgenerator-com-images-api/) — The Images API from AI Watercolor Generator — 2 operation(s) for images.
+- [AI Watercolor Generator Tasks API](https://apis.io/apis/aiwatercolorgenerator-com/aiwatercolorgenerator-com-tasks-api/) — The Tasks API from AI Watercolor Generator — 1 operation(s) for tasks.
+- [AI Watercolor Generator Uploads API](https://apis.io/apis/aiwatercolorgenerator-com/aiwatercolorgenerator-com-uploads-api/) — The Uploads API from AI Watercolor Generator — 1 operation(s) for uploads.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Aiwatercolorgenerator Com Agentic Access](https://apis.io/agentic-access/aiwatercolorgenerator-com/aiwatercolorgenerator-com-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [ImageTask](https://apis.io/schemas/aiwatercolorgenerator-com/aiwatercolorgenerator-com-image-task/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Aiwatercolorgenerator Com Context](https://apis.io/jsonld/aiwatercolorgenerator-com/aiwatercolorgenerator-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AI Watercolor Generator API Rules](https://apis.io/rules/aiwatercolorgenerator-com/aiwatercolorgenerator-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aiwatercolorgenerator Com Authentication](https://apis.io/security/aiwatercolorgenerator-com/aiwatercolorgenerator-com-authentication/)
+- [Aiwatercolorgenerator Com Domain Security](https://apis.io/security/aiwatercolorgenerator-com/aiwatercolorgenerator-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Aiwatercolorgenerator Com Scopes](https://apis.io/scopes/aiwatercolorgenerator-com/aiwatercolorgenerator-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Aiwatercolorgenerator Com Plans Pricing](https://apis.io/plans/aiwatercolorgenerator-com/aiwatercolorgenerator-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aiwatercolorgenerator.com/)
+- [Documentation](https://www.aiwatercolorgenerator.com/docs/api)
+- [API reference](https://www.aiwatercolorgenerator.com/docs/api)
+- [Pricing](https://www.aiwatercolorgenerator.com/pricing)
+- [Blog](https://www.aiwatercolorgenerator.com/blog)
+- [Terms of service](https://www.aiwatercolorgenerator.com/terms-of-service)
+- [Privacy policy](https://www.aiwatercolorgenerator.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 51.8** — developing · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 51.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 44.5 |
+| Access clarity | 60.0 |
+
+**Agent readiness 45.6** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 31.8** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aiwatercolorgenerator-com/](https://apis.io/providers/aiwatercolorgenerator-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AI Watercolor Generator: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aiwatercolorgenerator-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
